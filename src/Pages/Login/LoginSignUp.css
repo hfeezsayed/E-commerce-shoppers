@@ -1,0 +1,38 @@
+.loginsignup-agree p {
+  font-size: 12px;
+  padding-left: 10px;
+  display: inline;
+}
+
+p.loginsignup-login {
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+
+p.loginsignup-login > span {
+  color: #f00;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.form-block {
+  background: #f7b030;
+  padding: 3rem;
+  border-radius: 6px;
+}
+
+.loginsignup {
+  background: #fae3ff;
+}
+
+.loginsignup-field .btn {
+  background-color: #d73733;
+  border: none;
+  width: 100%;
+  margin-top: 10px;
+  height: 45px;
+}
+
+.loginsignup-field .btn:hover {
+  background: #d73733;
+}

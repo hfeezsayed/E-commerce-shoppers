@@ -1,0 +1,46 @@
+.offers {
+  margin: 8rem 0;
+  background-color: #fbe9ff;
+}
+
+.main .d-flex {
+  align-items: center;
+  justify-content: center;
+}
+
+.main .d-flex .left-text {
+  padding-left: 8rem;
+}
+
+.main .d-flex .left-text h1 {
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.main .d-flex .left-text h6 {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.main .d-flex .left-text .btn {
+  background-color: #d63735;
+  color: white;
+  width: 200px;
+  padding: 12px 12px;
+  font-size: 14px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.main .d-flex .right-image img {
+  width: 70%;
+  height: auto;
+  float: right;
+  padding-right: 8rem;
+}
+
+.main .d-flex .right-image {
+  padding-top: 3rem;
+}

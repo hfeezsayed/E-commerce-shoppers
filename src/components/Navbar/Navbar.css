@@ -1,0 +1,60 @@
+.brand img {
+  width: 40px;
+  height: auto;
+  margin-right: 10px;
+}
+.brand span {
+  font-weight: 600;
+  vertical-align: middle;
+  padding-top: 8px;
+  display: inline-block;
+}
+
+.navbar {
+  height: 100px;
+}
+
+.navbar-nav a {
+  padding: 0 15px;
+  cursor: pointer;
+  text-decoration: none;
+  color: var(--bs-navbar-brand-color);
+}
+
+.navbar .right-block .btn {
+  border-radius: 100px;
+  width: 100px;
+}
+
+.navbar .right-block .btn:hover {
+  background-color: #f7b030;
+  border: #f7b030;
+}
+
+.navbar .right-block img {
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  margin-top: 4px;
+}
+
+.cart-count {
+  width: 25px;
+  height: 25px;
+  background-color: #eb423f;
+  color: white;
+  border-radius: 50%;
+  margin-top: -8px;
+  text-align: center;
+}
+
+.navbar-nav hr {
+  margin: 0;
+  border: 2px solid red;
+}
+
+.active {
+  background-color: #f7b030;
+  padding: 6px;
+  border-radius: 4px;
+}

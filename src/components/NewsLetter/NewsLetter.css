@@ -1,0 +1,36 @@
+.bg-pink {
+  background-color: #fae8fe;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.news-letter {
+  padding: 5rem 12rem;
+  text-align: center;
+}
+
+.news-letter h1 {
+  font-size: 35px;
+}
+
+.news-letter .input-group {
+  width: 65%;
+  margin: auto;
+}
+
+.news-letter .input-group .form-control {
+  height: 50px;
+  border-radius: 40px;
+}
+
+.news-letter .input-group-text {
+  border-radius: 40px;
+  background-color: #000;
+  color: white;
+}
+.news-letter .form-control:focus {
+  border-color: none;
+  box-shadow: none;
+  border: none;
+  transition: none;
+}

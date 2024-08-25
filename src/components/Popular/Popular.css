@@ -1,0 +1,15 @@
+.popular h1 {
+  text-align: center;
+}
+
+.popular-item {
+  gap: 30px;
+}
+
+.popular {
+  margin: 5rem 0;
+}
+
+.popular hr {
+  margin-bottom: 3rem;
+}

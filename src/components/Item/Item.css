@@ -1,0 +1,20 @@
+.item .card {
+  width: 16rem;
+  border: 1px solid #f1f1f1;
+  cursor: pointer;
+}
+
+.item-price-old {
+  text-decoration: line-through;
+  color: #979797;
+}
+
+.item .card p {
+  padding: 6px;
+  font-size: 14px;
+}
+
+.item:hover {
+  transform: scale(1.05);
+  transition: 0.6s;
+}

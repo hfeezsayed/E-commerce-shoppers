@@ -1,0 +1,11 @@
+.new-collection .collection-item {
+  margin-bottom: 2rem;
+}
+
+.new-collection .collections {
+  margin-top: 3rem;
+}
+
+.new-collection h1 {
+  text-align: center;
+}

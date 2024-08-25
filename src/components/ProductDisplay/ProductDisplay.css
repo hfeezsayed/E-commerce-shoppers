@@ -1,0 +1,37 @@
+.product-image-list img {
+  width: 81px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+/* .product-display {
+  margin-bottom: 0px;
+} */
+
+.product-right-sizes div {
+  width: 38px;
+  height: 38px;
+  padding: 6px;
+  border: 1px solid #ededed;
+  text-align: center;
+  cursor: pointer;
+}
+
+.product-display .btn-danger {
+  width: 150px;
+  height: 45px;
+  border-radius: 0;
+}
+
+.product-prices .old-price {
+  color: #868686;
+  font-weight: 500;
+}
+
+.product-prices .new-price {
+  color: #f00;
+}
+
+.font-small-common {
+  font-size: 14px;
+}
